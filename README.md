@@ -122,5 +122,4 @@ plt.title('Violin plot of Total bill by day and smoker status')
 ```python
 
 # Result:
- 
 The data visualization using seaborn is successfully implemented.
