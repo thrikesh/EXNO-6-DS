@@ -119,7 +119,7 @@ plt.title('Violin plot of Total bill by day and smoker status')
 ```
 ![image](https://github.com/MeethaPrabhu/EXNO-6-DS/assets/119401038/63d2729d-db79-4016-8634-fb8847fc716d)
 
-```python
+```
 
-# Result:
+# RESULT:
 The data visualization using seaborn is successfully implemented.
